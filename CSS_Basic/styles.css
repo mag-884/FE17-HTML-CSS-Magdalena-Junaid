@@ -1,0 +1,12 @@
+.container {
+margin: 5px;
+}
+
+h1 {
+    color: rgba(78, 78, 216, 0.729);
+}
+
+#third p span {
+visibility: hidden;
+
+}
