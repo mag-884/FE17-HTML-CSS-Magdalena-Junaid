@@ -7,13 +7,13 @@ h1 {
 }
 
 #third span{
-visibility: hidden 
+visibility: visible 
 
 }
 
 .right p {
-visibility: hidden;
-display: none;
+visibility: visible;
+display: inline;
 
 }
 
