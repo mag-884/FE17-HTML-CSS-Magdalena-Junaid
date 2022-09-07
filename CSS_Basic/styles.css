@@ -6,7 +6,13 @@ h1 {
     color: rgba(78, 78, 216, 0.729);
 }
 
-#third p span {
+#third span{
+visibility: hidden 
+
+}
+
+.right p {
 visibility: hidden;
+display: none;
 
 }
